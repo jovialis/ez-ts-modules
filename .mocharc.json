@@ -5,6 +5,6 @@
     "experimental-modules"
   ],
   "extension": ["ts"],
-  "watch-files": ["tests/**/*.test.ts"],
+  "watch-files": ["test/**/*.test.ts"],
   "exit": true
 }
