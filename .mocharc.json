@@ -1,0 +1,10 @@
+{
+  "node-option": [
+    "experimental-specifier-resolution=node",
+    "loader=ts-node/esm",
+    "experimental-modules"
+  ],
+  "extension": ["ts"],
+  "watch-files": ["tests/**/*.test.ts"],
+  "exit": true
+}
